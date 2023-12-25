@@ -4,7 +4,6 @@
 #https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml
 #----------
 
-
 IP-CIDR,1.0.1.0/24
 IP-CIDR,1.0.2.0/23
 IP-CIDR,1.0.8.0/21
@@ -4152,6 +4151,7 @@ IP-CIDR,171.80.0.0/12
 IP-CIDR,171.104.0.0/13
 IP-CIDR,171.112.0.0/12
 IP-CIDR,171.208.0.0/12
+IP-CIDR,172.18.18.60/32
 IP-CIDR,172.81.192.0/18
 IP-CIDR,173.39.200.0/23
 IP-CIDR,175.0.0.0/12
@@ -6132,5 +6132,3 @@ IP-CIDR,223.255.236.0/22
 IP-CIDR,223.255.252.0/23
 
 
-#Campus Network Router
-IP-CIDR,172.18.18.60/32
