@@ -138,5 +138,6 @@ DOMAIN-SUFFIX,music.xiaomi.com
 DOMAIN-SUFFIX,dmhmusic.com
 
 IP-CIDR,172.18.18.60/32
+DOMAIN-SUFFIX,app.com
 
 GEOIP,CN
